@@ -7,3 +7,7 @@
 - [Miles to Kilometers Converter](./miletokm.py)
     - Uses TKinter
     - Allow user to type in a certain number of miles then click the calculate button and see those miles converted to kilometers
+
+- [Timer](./timer.py)
+    - Uses Tkinter and Math modules
+    - Timer that count down from 5 minutes
