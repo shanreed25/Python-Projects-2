@@ -1,4 +1,21 @@
 # Python Projects
-
+- [Flash Cards](./FlashCards/flashy/main.py)
+    - `Tkinter`
+    - `pandas`
+    - `random`
 - [Guess The States](./GuessTheStates/GUESSTHESTATES.md)
+    - `Turtle`
+    - `pandas`
 - [Pomodoro App](./PomodoroApp/PomodoroApp.md)
+    - `TKinter`
+    - `math`
+- [Motivational Email](./MotivationalEmails/main.py)
+    - `smtplib`
+    - `datetime`
+    - `random`
+- [Password Manager](./PasswordManager/main.py)
+    - `TKinter`
+        - `messagebox`
+    - `pyperclip`
+    - `random`
+    - `json`
