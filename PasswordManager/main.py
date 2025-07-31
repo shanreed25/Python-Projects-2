@@ -81,7 +81,7 @@ def save():
 # Logo********************************************************************
 pass_canvas = Canvas(width=200, height=200)
 pass_img = PhotoImage(file="logo.png")
-pass_canvas. create_image(100, 100, image=pass_img)
+pass_canvas.create_image(100, 100, image=pass_img)
 pass_canvas.grid(row=0, column=1)
 
 # Website Label*******************************************************
