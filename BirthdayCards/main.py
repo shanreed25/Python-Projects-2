@@ -36,9 +36,9 @@ with open(f"letter_templates/letter_{file_num}.txt") as letter:
     letter = letter.read()
     print()
 
-my_email = ""
+my_email = "myemail@email.com"
 other_email = ""
-password = ""
+password = "password"
 PORT = 587
 #TODO Replace the [NAME] with the person's actual name from birthdays.csv
 for person in birthday_people:

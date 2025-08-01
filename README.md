@@ -1,4 +1,9 @@
 # Python Projects
+- [Birthday Cards](./BirthdayCards/main.py)
+    - `smtplib`
+    - `pandas`
+    - `random`
+    - `datetime`
 - [Flash Cards](./FlashCards/flashy/main.py)
     - `Tkinter`
     - `pandas`
