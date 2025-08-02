@@ -24,3 +24,7 @@
     - `pyperclip`
     - `random`
     - `json`
+- [Quiz App](./QuizApp/main.py)
+    - `requests`
+    - `Tkinter`
+    - `html`
