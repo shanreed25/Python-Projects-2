@@ -28,3 +28,6 @@
     - `requests`
     - `Tkinter`
     - `html`
+- [Stock Alerts](./StocksAlerts/main.py)
+    - `requests`
+    - `twilio`
