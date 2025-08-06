@@ -32,6 +32,9 @@
     - `requests`
     - `twilio`
 - [Pixela](./Pixela/main.py)
-    - `pixela API`
+    - `requests`
+    - `datetime`
+- [Workout Tracker Using Google Sheets](./WorkoutTracker/README.md)
+    - `requests`
     - `requests`
     - `datetime`
