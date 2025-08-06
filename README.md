@@ -31,3 +31,7 @@
 - [Stock Alerts](./StocksAlerts/main.py)
     - `requests`
     - `twilio`
+- [Pixela](./Pixela/main.py)
+    - `pixela API`
+    - `requests`
+    - `datetime`
